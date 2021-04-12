@@ -9,3 +9,5 @@ For Binary search:
 Follow same steps as linear but you must also run binary_search(int_array, target) and click enter.
 
 If you have a repeating integer in the array (and that's the target), you must search for it seperately. Remove the instance of the integer in the first search and search again. 
+
+The benefit of binary search is that in each operation, we halve the array elements (O(n) = log2(n)) whereas linear search requires a element-by-element scan of the list and this proves inferior when n is large.
