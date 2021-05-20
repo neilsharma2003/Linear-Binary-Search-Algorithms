@@ -6,7 +6,7 @@ input target integer in array. Example input: 1
 Outputs indexes where element has been found or lack thereof 
 
 For Binary search:
-Follow same steps as linear but you must also run binary_search(int_array, target) and click enter.
+Follow same steps as linear search.
 
 If you have a repeating integer in the array (and that's the target), you must search for it seperately. Remove the instance of the integer in the first search and search again. 
 

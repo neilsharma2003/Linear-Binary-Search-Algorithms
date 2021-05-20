@@ -22,7 +22,8 @@ def binary_search(int_array, target):
             right = mid - 1
     return "Element not found in array"
         
-
+print(binary_search(int_array, target))
+input("press ENTER to exit")
 
     
         

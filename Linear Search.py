@@ -18,4 +18,4 @@ for i in range(0,len(int_array)):
     if int_array[i] == target:
         print("The sorted list is now " + str(int_array) + " Element found at index " + str(i))
         
-
+input("press ENTER to exit")
